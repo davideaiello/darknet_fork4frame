@@ -1,2 +1,8 @@
 frame/frame0.png
 frame/frame1.png
+frame/frame2.png
+frame/frame3.png
+frame/frame4.png
+frame/frame5.png
+frame/frame6.png
+frame/frame7.png
