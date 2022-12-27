@@ -1,0 +1,2 @@
+frame/frame0.png
+frame/frame1.png
